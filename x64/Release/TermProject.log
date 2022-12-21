@@ -1,0 +1,38 @@
+﻿  termproject.c
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(8,33): warning C4081: 'newline'이(가) 있어야 하는데 ';'이(가) 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(344,17): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(347,20): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(348,24): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(349,24): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(350,24): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(351,24): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(386,21): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(630,18): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(635,21): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(782,18): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(787,21): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(888,18): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(892,21): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1040,19): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1078,18): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1081,22): warning C4244: '초기화 중': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1168,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1188,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1302,28): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1347,28): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1348,24): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1407,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1169,6): warning C4101: 'item' :참조되지 않은 지역 변수입니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1476,19): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1509,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1833,28): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1897,28): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1898,24): warning C4553: '==': 식의 결과가 사용되지 않습니다. '='을(를) 의도했습니까?
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1981,18): warning C4244: '=': 'time_t'에서 'int'(으)로 변환하면서 데이터가 손실될 수 있습니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1473,6): warning C4101: 'boss_bomb' :참조되지 않은 지역 변수입니다.
+C:\Users\Johnny\Desktop\Term Project_test\TermProject\termproject.c(1477,6): warning C4101: 'item' :참조되지 않은 지역 변수입니다.
+  코드를 생성하고 있습니다.
+  Previous IPDB not found, fall back to full compilation.
+  All 33 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  코드를 생성했습니다.
+  TermProject.vcxproj -> C:\Users\Johnny\Desktop\Term Project_test\TermProject\x64\Release\TermProject.exe
